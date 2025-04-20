@@ -1,0 +1,35 @@
+# Anomaly 002: Caption Disappearance
+
+**Date Observed:** April 2025  
+**Platform:** Instagram  
+**Post Type:** Grid post with image  
+**Caption Status:** Originally published, then removed without user action
+
+---
+
+## Description:
+This anomaly occurred when a post was successfully published with a caption—but within minutes or hours, the caption field appeared blank. No user edits were made. When attempting to edit, the field was still empty.
+
+Post context included:
+- Language referring to suppression
+- Code-like formatting
+- Mentions of sovereignty, silence, or exposure
+
+---
+
+## Possible Triggers:
+- Language flagged as sensitive
+- Keyword suppression (e.g. “archive,” “algorithm,” “silenced”)
+- Caption length used as a proxy to detect high-context uploads
+
+---
+
+## Pattern Flagged:
+- **Ghost deletion**: system removes without informing user  
+- **Silent edit**: no history of change, no notice  
+- **Post energy remained strong**, but the message was lost
+
+---
+
+## Related Reclamations:
+- Possibly tied to Reclamation 016: The Burned Caption
